@@ -1,0 +1,42 @@
+.search-bar{
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #FFF;
+    width: 830px;
+}
+.field{
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #FFF;
+    width: 800px;
+    background-color: rgb(245, 242, 237);
+    color: black;
+    border: 2px solid rgb(240, 221, 191);
+}
+.submitButton{
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #FFF;
+    background-color: rgb(245, 242, 237);
+    color: black;
+    border: 2px solid rgb(240, 221, 191);
+}
+
+.deleteButton {
+    padding: 10px;
+    margin: 10px;
+    font-size: 12px;
+    border: 2px solid #FFF;
+    background-color: rgb(233, 178, 162);
+    color: black;
+    border: 2px solid rgb(199, 59, 16);
+}
+
+.editButton {
+    padding: 10px;
+    font-size: 12px;
+    border: 2px solid #FFF;
+    background-color: rgb(181, 245, 175);
+    color: black;
+    border: 2px solid rgb(69, 202, 57);
+}
